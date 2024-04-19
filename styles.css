@@ -86,6 +86,7 @@ button:hover {
   position: absolute;
   top: 25%;
   right: 5px;
+  border-radius:10px;
 }
 
 .dropdown-menu {
